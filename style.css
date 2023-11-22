@@ -1,0 +1,15 @@
+*{
+    margin: 1px;
+    padding: 2px;
+    height: 25px;
+    width: 50px;
+    border: solid black;
+    box-sizing: content-box;
+    box-shadow: purple;
+    background-color: rgb(247, 185, 255);
+    font-family: sans-serif;
+    font-size: large;
+    font-style: italic;
+    outline: none;
+    
+}
